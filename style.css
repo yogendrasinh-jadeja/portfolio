@@ -1,0 +1,55 @@
+:root {
+    --gradient: linear-gradient(to left top, #DD2476 10%, #FF512F 90%) !important;
+    --imp-text-color: #c770f0;
+  }
+  
+  body {
+    background: #111 !important;
+  }
+  
+  .card {
+    background: #222;
+    border: 1px solid #dd2476;
+    color: rgba(250, 250, 250, 0.8);
+    margin-bottom: 2rem;
+    width: 440px !important;
+    height: 495px !important;
+  }
+  .marlef{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .btn {
+    border: 5px solid;
+    border-image-slice: 1;
+    background: var(--gradient) !important;
+    border-image-source:  var(--gradient) !important; 
+    text-decoration: none;
+    transition: all .4s ease;
+    font-weight: bold;
+  }
+  
+   .btn:hover, .btn:focus {
+        background: var(--gradient) !important;
+    /* -webkit-text-fill-color: #fff !important; */
+    border: 5px solid #fff !important; 
+    box-shadow: #222 1px 0 10px;
+    text-decoration: underline;
+  }
+  .project-heading {
+    color: white !important;
+    font-size: 2.3em !important;
+    font-weight: 500 !important;
+    padding-top: 10px !important;
+  }
+  .purple {
+    color: #DD2476 !important;
+    
+  }
+  .tagline{
+    text-align: center !important;
+    margin-top: 20px !important;
+    margin-bottom: 13px !important;
+  }
+  
