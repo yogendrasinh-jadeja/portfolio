@@ -8,7 +8,7 @@ Portfolio website build using HTML5, CSS3 and Bootstrap.
 https://yogendrasinh-jadeja.github.io/portfolio/
 ## Tech Stack
 
-Html, Css, Bootstrap
+Html5, Css3, Bootstrap5
 
 
 
