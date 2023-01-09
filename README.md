@@ -22,13 +22,13 @@ Html, Css, Bootstrap
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yogendrasinh-jadeja/portfolio
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd portfolio
 ```
 
 
